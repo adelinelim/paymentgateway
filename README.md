@@ -10,3 +10,10 @@
 ```
 
   2. This will run the server at port 5000; to try this can simply go to http://localhost:5000
+
+  3. Go to http://localhost:5000, it will return status "ok" or "rejected"; 10% chance of getting rejected status
+  ```
+  {"status":"ok"}
+  OR
+  {"status":"reject"}
+  ```
