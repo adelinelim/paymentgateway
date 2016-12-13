@@ -15,6 +15,6 @@ class PaymentController < ApplicationController
   end
 
   def chance(percentage)
-    rand(100) < percentage
+    rand(100) <= percentage
   end
 end
