@@ -6,6 +6,8 @@ class PaymentController < ApplicationController
     render json: { status: generate_status }
   end
 
+  private
+
   def get_request_params
     request.body.read
   end
