@@ -4,9 +4,9 @@
 - 10% chance of failing payment (reject the payment)
 
 # Setup
-1. Run the below command in console (terminal)to start the ecommerce application.
+  1. Run the below command in console (terminal)to start the ecommerce application.
 ```
 ./run
 ```
 
-2. This will run the server at port 5000; to try this can simply go to http://localhost:5000
+  2. This will run the server at port 5000; to try this can simply go to http://localhost:5000
